@@ -1,0 +1,1 @@
+Random Text Generator is a web application which provides true random  which you can use in your documents or web designs. How does it work? First we took many books available on project Gutenberg and stored their contents in a database. Then a computer algorithm takes the words we stored earlier and shuffles them into sentences and paragraphs.random  , random  random .
